@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "QR Time Tracker",
+    "slug": "qr_time_tracker",
+    "version": "1.0.0",
+    "icon": "./assets/icon.png",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.sneakingslayer.qr_time_tracker",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png"
+      }
+    }
+  }
+}
